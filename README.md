@@ -1,3 +1,3 @@
-# PythonTemplate
+# Commercial Checker
 
-A template for a new python project
+Checks if a TV station is playing advertisements
